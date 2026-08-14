@@ -103,8 +103,9 @@ The dashboard is designed to support **data-driven decision-making** rather than
 ---
 
 ## 📸 Dashboard Preview
+<img width="852" height="633" alt="Screenshot 2026-08-14 170153" src="https://github.com/user-attachments/assets/144349b5-c7c9-47d0-bd81-eb58f4350293" />
 
-![Swiggy Excel Dashboard](screenshots/swiggy-dashboard.png)
+
 
 ---
 
